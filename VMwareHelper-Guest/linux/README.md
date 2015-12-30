@@ -7,7 +7,7 @@ compile with this command
 > gcc -lX11 vmware-helper.c -o vmware-helper
 
 And execute program like this
-> ./vmware-helper <host VMnet1-IP> <PORT>
+> ./vmware-helper &lt;host VMnet1-IP&gt; &lt;PORT&gt;
 
 If you want the program to run automatically on boot-time.
 
